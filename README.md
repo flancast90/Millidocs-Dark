@@ -1,6 +1,6 @@
 # Millidocs Theme
 
-Simple documentation theme for Jekyll featuring [Milligram CSS framework](http://milligram.io/), [PrismJS syntax highlighter](http://prismjs.com/) and [LunrJS search](https://lunrjs.com/).
+Simple documentation theme for Jekyll based on [Millidocs](https://github.com/alexander-heimbuch/millidocs), and featuring [The Finned Dark Theme](https://finned.tech), [PrismJS syntax highlighter](http://prismjs.com/) and [LunrJS search](https://lunrjs.com/).
 
 One of the core features is a full text client side search and full responsiveness. It has zero dependencies with other gems and should be easily build with Github.
 
@@ -9,7 +9,7 @@ One of the core features is a full text client side search and full responsivene
 Add this line to your Jekyll site's `Gemfile`:
 
 ```ruby
-gem "millidocs"
+gem "millidocs-dark"
 ```
 
 Adapt your Jekyll site config `_config.yml`:
@@ -18,7 +18,7 @@ Adapt your Jekyll site config `_config.yml`:
   title: My Docs Page Title
   description: MY description
   url: "https://base/url/site"
-  theme: millidocs
+  theme: millidocs-dark
 
   markdown: kramdown
   kramdown:
@@ -37,14 +37,14 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install millidocs
+    $ gem install millidocs-dark
 
 
 ## Usage
 
 ### Github Pages
 
-You can use this theme by simply adding `remote_theme: alexander-heimbuch/millidocs` to your `_config.yml` (Thanks to @kogli for the hint).
+You can use this theme by simply adding `remote_theme: flancast90/millidocs-dark` to your `_config.yml`.
 
 ### Available Themes
 
