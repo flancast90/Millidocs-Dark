@@ -6,7 +6,7 @@ One of the core features is a full text client side search and full responsivene
 
 ## Screenshots
 
-![screenshot](thumbnail.png)
+![screenshot](/thumbnail.PNG)
 
 
 ## Installation
