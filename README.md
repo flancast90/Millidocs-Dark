@@ -3,6 +3,12 @@
 
 One of the core features is a full text client side search and full responsiveness. It has zero dependencies with other gems and should be easily build with Github.
 
+
+## Screenshots
+
+![screenshot](thumbnail.png)
+
+
 ## Installation
 
 Add this line to your Jekyll site's `Gemfile`:
