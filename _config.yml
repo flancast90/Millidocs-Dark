@@ -1,0 +1,18 @@
+title: Millidocs Dark Theme
+description: Minimal dark theme for the existing Millidocs theme
+url: "https://github.com/flancast90/Millidocs-Dark" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Build settings
+markdown: kramdown
+kramdown:
+  syntax_highlighter_opts:
+    disable : true
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+
+sass:
+  sass_dir: _sass
+  style: compressed
