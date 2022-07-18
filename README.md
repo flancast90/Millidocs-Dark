@@ -1,6 +1,5 @@
-# Millidocs Theme
-
-Simple documentation theme for Jekyll based on [Millidocs](https://github.com/alexander-heimbuch/millidocs), and featuring [The Finned Dark Theme](https://finned.tech), [PrismJS syntax highlighter](http://prismjs.com/) and [LunrJS search](https://lunrjs.com/).
+# Millidocs Dark Theme
+> Simple documentation theme for Jekyll based on [Millidocs](https://github.com/alexander-heimbuch/millidocs), and featuring [The Finned Dark Theme](https://finned.tech), [PrismJS syntax highlighter](http://prismjs.com/) and [LunrJS search](https://lunrjs.com/).
 
 One of the core features is a full text client side search and full responsiveness. It has zero dependencies with other gems and should be easily build with Github.
 
